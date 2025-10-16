@@ -2,17 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-*.so
 .Python
-*.egg-info/
-dist/
-build/
-
-# Virtual Environment
 venv/
 vvv/
 env/
-ENV/
 
 # Environment Variables
 .env
@@ -25,17 +18,7 @@ reports/
 # IDEs
 .vscode/
 .idea/
-*.swp
-*.swo
-*~
 
 # OS
 .DS_Store
 Thumbs.db
-
-# Flask
-instance/
-.webassets-cache
-
-# Logs
-*.log
